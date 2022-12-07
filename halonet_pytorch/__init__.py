@@ -1,1 +1,1 @@
-from halonet_pytorch.halonet_pytorch import HaloAttention
+from halonet_pytorch.halonet_pytorch import HaloAttention, HaloStack
